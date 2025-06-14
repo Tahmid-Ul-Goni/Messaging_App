@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "460000424046",
+    "project_id": "first-project-9f1a0",
+    "storage_bucket": "first-project-9f1a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460000424046:android:eb334f8a6977e2e2e1f67f",
+        "android_client_info": {
+          "package_name": "com.example.api_integration_projects"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo-dneTgt6xpttMD_Ed1vkW2hqm5USoWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460000424046:android:47005f2d62bedc94e1f67f",
+        "android_client_info": {
+          "package_name": "com.Messaging_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo-dneTgt6xpttMD_Ed1vkW2hqm5USoWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
