@@ -1,16 +1,32 @@
-# untitled12
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 💬 Messaging App  
+A real-time messaging application built using Flutter and Firebase that supports both text and image chat. The app allows users to register, sign in, and engage in fast, smooth messaging with image sharing capability.  
+## 🚀 Features  
+- User registration and login with Firebase Authentication  
+- Real-time one-to-one messaging using Firebase Firestore  
+- Send and receive text messages  
+- Send and receive images from device gallery  
+- Chat list with message previews and timestamps  
+- Clean and responsive UI  
+## 🛠️ Tech Stack  
+- Flutter & Dart  
+- Firebase Authentication  
+- Firebase Firestore  
+- Firebase Storage (for image uploading)  
+## ▶️ Getting Started  
+1. Clone the repository:  
+   git clone https://github.com/Tahmid-Ul-Goni/messaging_app.git  
+2. Navigate to the project directory:  
+   cd messaging_app  
+3. Install dependencies:  
+   flutter pub get  
+4. Add Firebase configuration files:  
+   - `android/app/google-services.json`  
+   - `ios/Runner/GoogleService-Info.plist`  
+5. Run the app:  
+   flutter run   
+## 🔗 GitHub Repository  
+https://github.com/Tahmid-Ul-Goni/messaging_app  
+## 🙌 Contributions  
+Pull requests and suggestions are welcome. Feel free to contribute!  
+## 📄 License  
+This project is open-source. License can be added here.
